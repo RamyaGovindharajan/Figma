@@ -419,7 +419,7 @@ Figma
 
 
 ## OUTPUT:
-
+c:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-22 233528.png
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
