@@ -419,8 +419,7 @@ Figma
 
 
 ## OUTPUT:
-![alt text](<Figma/Screenshot 2024-12-22 233528.png>)
-
+![alt text](<Screenshot 2024-12-22 233528-1.png>)
 
 
 ## RESULT:
